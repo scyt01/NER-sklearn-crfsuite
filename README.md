@@ -12,6 +12,12 @@ This project analyzes the public opinions on the ethicality of AI uses in academ
 - What are some (root) causes identified within the comments
 
 ## Solution
+<img alt="Solution Flow with NER, ABSA, Topic Modelling and Discourse Analysis" src="solution flow.png">
+<img alt="NER Introduction" src="NER introduction.png">
+<img alt="NER Process Model" src="NER process model.png">
+<img alt="NER Examples" src="examples.png">
+<img alt="NER Insights with Bar and Pie Charts" src="insight charts.png">
+<img alt="NER Insights with Evaluation Metrics" src="insight evaluation metrics.png">
 
   ## Project Contributions
 - Train Named Entity Recognition (NER) model using Python sklearn-crfsuite library
