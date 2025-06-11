@@ -1,7 +1,7 @@
 # NLP Group Project (NER sklearn-crfsuite model)
 The group project was to analyze the public opinions on the ethicality of Artificial Intelligence (AI) uses in academic settings using Text Mining and Natural Language Processing (NLP) techniques from classroom learning.
 
-## Problem Statement (Understanding AI Ethical Dilemmas)
+## Problem Statement (Understanding AI Ethical Dilemmas in Academic Settings)
 AI is transforming education by enhancing learning, research, and academic tasks through tools like ChatGPT and DeepSeek. While AI offers benefits, it also raises ethical concerns regarding academic integrity, fairness, over-reliance, plagiarism, misinformation, and biased responses.
 
 This project analyzes the public opinions on the ethicality of AI uses in academic settings:
